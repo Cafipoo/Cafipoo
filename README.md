@@ -22,15 +22,15 @@ Lors de cette SAÉ, nous avons du créer un jeu intéractif en VR permettant l'a
 ### [SAE 401 – Développer pour le web](https://github.com/Cafipoo/SAE4.01)
 Lors de cette SAÉ, j’ai conçu et développé individuellement un réseau social web en utilisant les frameworks Symfony (back-end) et React/Tailwind (front-end), intégrant un back office, une API, et une interface dynamique.
 
-### [SAE 303 – Dashboard de data visualisation
-](https://github.com/Cafipoo/SAE3.DWeb-DI.03-Base-master)
+### [SAE 303 – Dashboard de data visualisation](https://github.com/Cafipoo/SAE3.DWeb-DI.03-Base-master)
+
 Description : J'ai utilisé la librairie javascript Highcharts pour créer des graphiques dynamiques permettant de visualiser une basez de donnée de magasin alimentaire. Pour la partie graphique, je me suis essayé au néomorphisme.
 
 ### SAE 301 – Développement d'un site e-commerce
 Description : Dans ce projet, je devais avec mon binôme, redeisgner et développer un site de click & collect. J'ai donc analysé le site de Micromania et développé l'API et le Back Office de ce site.
 
 ## 🔊 En recherche de stage !
-Je suis actuellement en recherche de stage pour le 2 février 2026 et pour une durée de minimum 3 mois; Si mon profil vous a intéressé et que vous avez une mission de développement web à me proposer, je serais ravis de vous répondre à mon adresse mail : enguerran.caroalquier@gmail.com
+Je suis actuellement en recherche de stage pour le 2 février 2026 et pour une durée de minimum 3 mois; Si mon profil vous a intéressé et que vous avez une mission de développement web à me proposer, je serais ravis de vous répondre à mon adresse mail : francoispierre.lajudie@etu.unilim.fr
 
 ## 📫 Me contacter
 - [LinkedIn](https://www.linkedin.com/in/françois-pierre-lajudie-66aa40259)
