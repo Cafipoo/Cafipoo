@@ -1,6 +1,7 @@
-# Salut, moi c’est Benoît 👋
+# Salut, moi c’est François-Pierre 👋
 
-Développeur JavaScript/TypeScript passionné par Node.js, le temps réel (Socket.IO) et les apps web modernes. J’aime construire des services robustes avec Express et Prisma.
+Bienvenue sur mon GitHub ! Je suis un développeur web en **BUT MMI** (*Métiers du Multimédia et de l'Internet*) avec une spécialisation dans les projets créatifs et techniques.
+
 
 ## 🔧 Stack & Outils
 - Backend: Node.js, Express, Prisma, PostgreSQL
