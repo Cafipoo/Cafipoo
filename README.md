@@ -4,15 +4,14 @@ Bienvenue sur mon GitHub ! Je suis un développeur web en **BUT MMI** (*Métiers
 
 ---
 
-## 🔧 Stack & Outils
-- Backend: Node.js, Express, Prisma, PostgreSQL
-- Temps réel: Socket.IO
-- Tests: Jest, Playwright
-- Outils: Docker, GitHub Actions
+## 🔧 Mes compétences
+- Développement front : Javascript, HTML, CSS, React, TailwindCSS, SASS, p5js, ThreeJS.
+- Développement back : PHP, Symfony, SQL.
+- Design : Maquettage Figma, Photoshop, Premiere Pro, After Effect, Illustrator.
 
-## 🚀 Projets récents
-- [tpChat](https://github.com/YOUR_USERNAME/tpChat) – Chat temps réel (Socket.IO, Express, Prisma)
-- [nodeExpress](https://github.com/YOUR_USERNAME/nodeExpress) – Starter Express minimal
+## 🚀 À propos de moi
+🎓 Étudiant en BUT MMI – j'explore les domaines du design, du développement web et de l'expérience utilisateur
+💡 j'adore apprendre de nouveaux frameworks, de nouvelles méthodes de travail et explorer de nouveaux domaines du développement !
 
 ## 📊 Stats (fun)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
