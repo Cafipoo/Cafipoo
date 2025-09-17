@@ -24,7 +24,7 @@ Lors de cette SAÉ, j’ai conçu et développé individuellement un réseau soc
 
 ### [SAE 303 – Dashboard de data visualisation](https://github.com/Cafipoo/SAE3.DWeb-DI.03-Base-master)
 
-Description : J'ai utilisé la librairie javascript Highcharts pour créer des graphiques dynamiques permettant de visualiser une basez de donnée de magasin alimentaire. Pour la partie graphique, je me suis essayé au néomorphisme.
+Description : J'ai utilisé la librairie javascript ApexChart pour créer des graphiques dynamiques permettant de visualiser une basez de donnée de magasin alimentaire. Pour la partie graphique, je me suis essayé au néomorphisme.
 
 ### SAE 301 – Développement d'un site e-commerce
 Description : Dans ce projet, je devais avec mon binôme, redeisgner et développer un site de click & collect. J'ai donc analysé le site de Micromania et développé l'API et le Back Office de ce site.
