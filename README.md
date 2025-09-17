@@ -14,19 +14,19 @@ Bienvenue sur mon GitHub ! Je suis un développeur web en **BUT MMI** (*Métiers
 💡 j'adore apprendre de nouveaux frameworks, de nouvelles méthodes de travail et explorer de nouveaux domaines du développement !
 
 ## 🌟 Mes projets
-SAE 402 – Création d'un jeu en Réalité Virtuelle
+### [SAE 402 – Création d'un jeu en Réalité Virtuelle](https://github.com/FlorianMMI/SAE402)
 Lors de cette SAÉ, nous avons du créer un jeu intéractif en VR permettant l'apprentissage de l'anglais de manière interactive en utilisant la librairie Aframe. J'ai effectuer ce projet en trinôme avec Lemesle Cyriaque et Florian Bounissou pendant une période de 4 semaines.
 
 [Béta hébergée](https://cyriiaque.github.io/testVR) 
 
-[SAE 401 – Développer pour le web](https://github.com/Cafipoo/SAE4.01)
+### [SAE 401 – Développer pour le web](https://github.com/Cafipoo/SAE4.01)
 Lors de cette SAÉ, j’ai conçu et développé individuellement un réseau social web en utilisant les frameworks Symfony (back-end) et React/Tailwind (front-end), intégrant un back office, une API, et une interface dynamique.
 
-[SAE 303 – Dashboard de data visualisation
+### [SAE 303 – Dashboard de data visualisation
 ](https://github.com/Cafipoo/SAE3.DWeb-DI.03-Base-master)
 Description : J'ai utilisé la librairie javascript Highcharts pour créer des graphiques dynamiques permettant de visualiser une basez de donnée de magasin alimentaire. Pour la partie graphique, je me suis essayé au néomorphisme.
 
-SAE 301 – Développement d'un site e-commerce
+### SAE 301 – Développement d'un site e-commerce
 Description : Dans ce projet, je devais avec mon binôme, redeisgner et développer un site de click & collect. J'ai donc analysé le site de Micromania et développé l'API et le Back Office de ce site.
 
 ## 🔊 En recherche de stage !
