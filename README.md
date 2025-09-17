@@ -22,5 +22,8 @@ Bienvenue sur mon GitHub ! Je suis un développeur web en **BUT MMI** (*Métiers
 - Amélioration des tests E2E (Playwright)
 
 ## 📫 Me contacter
-- LinkedIn: [Votre Profil](https://www.linkedin.com/in/VOTRE_PROFIL/)
-- Email: contact@votre-domaine.com
+- [LinkedIn](https://www.linkedin.com/in/françois-pierre-lajudie-66aa40259)
+- [Portfolio](https://fp-lajudie.fr)
+- Email: francoispierre.lajudie@etu.unilim.fr
+
+  Merci d'avoir visité ma page !
