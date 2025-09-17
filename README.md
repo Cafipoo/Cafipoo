@@ -36,6 +36,6 @@ Je suis actuellement en recherche de stage pour le 2 février 2026 et pour une d
 - [LinkedIn](https://www.linkedin.com/in/françois-pierre-lajudie-66aa40259)
 - [Portfolio](https://fp-lajudie.fr)
 - Email: francoispierre.lajudie@etu.unilim.fr
-- ![Mon CV](https://fp-lajudie.fr/assets/LAJUDIEFRANCOISPIERRE%20CV.png)
+- Mon CV ![Mon CV](https://fp-lajudie.fr/assets/LAJUDIEFRANCOISPIERRE%20CV.png)
 
   Merci d'avoir visité ma page !
