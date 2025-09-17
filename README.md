@@ -13,13 +13,24 @@ Bienvenue sur mon GitHub ! Je suis un développeur web en **BUT MMI** (*Métiers
 🎓 Étudiant en BUT MMI – j'explore les domaines du design, du développement web et de l'expérience utilisateur
 💡 j'adore apprendre de nouveaux frameworks, de nouvelles méthodes de travail et explorer de nouveaux domaines du développement !
 
-## 📊 Stats (fun)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
+## 🌟 Mes projets
+SAE 402 – Création d'un jeu en Réalité Virtuelle
+Lors de cette SAÉ, nous avons du créer un jeu intéractif en VR permettant l'apprentissage de l'anglais de manière interactive en utilisant la librairie Aframe. J'ai effectuer ce projet en trinôme avec Lemesle Cyriaque et Florian Bounissou pendant une période de 4 semaines.
 
-## 🌱 En ce moment
-- Intégration d’auth & sessions sur un chat temps réel
-- Amélioration des tests E2E (Playwright)
+[Béta hébergée](https://cyriiaque.github.io/testVR) 
+
+[SAE 401 – Développer pour le web](https://github.com/Cafipoo/SAE4.01)
+Lors de cette SAÉ, j’ai conçu et développé individuellement un réseau social web en utilisant les frameworks Symfony (back-end) et React/Tailwind (front-end), intégrant un back office, une API, et une interface dynamique.
+
+[SAE 303 – Dashboard de data visualisation
+](https://github.com/Cafipoo/SAE3.DWeb-DI.03-Base-master)
+Description : J'ai utilisé la librairie javascript Highcharts pour créer des graphiques dynamiques permettant de visualiser une basez de donnée de magasin alimentaire. Pour la partie graphique, je me suis essayé au néomorphisme.
+
+SAE 301 – Développement d'un site e-commerce
+Description : Dans ce projet, je devais avec mon binôme, redeisgner et développer un site de click & collect. J'ai donc analysé le site de Micromania et développé l'API et le Back Office de ce site.
+
+## 🔊 En recherche de stage !
+Je suis actuellement en recherche de stage pour le 2 février 2026 et pour une durée de minimum 3 mois; Si mon profil vous a intéressé et que vous avez une mission de développement web à me proposer, je serais ravis de vous répondre à mon adresse mail : enguerran.caroalquier@gmail.com
 
 ## 📫 Me contacter
 - [LinkedIn](https://www.linkedin.com/in/françois-pierre-lajudie-66aa40259)
