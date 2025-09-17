@@ -2,6 +2,7 @@
 
 Bienvenue sur mon GitHub ! Je suis un développeur web en **BUT MMI** (*Métiers du Multimédia et de l'Internet*) avec une spécialisation dans les projets créatifs et techniques.
 
+---
 
 ## 🔧 Stack & Outils
 - Backend: Node.js, Express, Prisma, PostgreSQL
