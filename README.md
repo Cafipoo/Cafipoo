@@ -16,6 +16,7 @@ Bienvenue sur mon GitHub ! Je suis un développeur web en **BUT MMI** (*Métiers
 ## 🌟 Mes projets
 ### [SAE 402 – Création d'un jeu en Réalité Virtuelle](https://github.com/FlorianMMI/SAE402)
 Lors de cette SAÉ, nous avons du créer un jeu intéractif en VR permettant l'apprentissage de l'anglais de manière interactive en utilisant la librairie Aframe. J'ai effectuer ce projet en trinôme avec Lemesle Cyriaque et Florian Bounissou pendant une période de 4 semaines.
+![img game](https://fp-lajudie.fr/site/assets/class.png)
 
 [Béta hébergée](https://cyriiaque.github.io/testVR) 
 
