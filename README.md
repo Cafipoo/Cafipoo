@@ -26,7 +26,7 @@ Lors de cette SAÉ, j’ai conçu et développé individuellement un réseau soc
 
 Description : J'ai utilisé la librairie javascript ApexChart pour créer des graphiques dynamiques permettant de visualiser une basez de donnée de magasin alimentaire. Pour la partie graphique, je me suis essayé au néomorphisme.
 
-[### SAE 301 – Développement d'un site e-commerce](https://github.com/Cafipoo/SAE301)
+### [SAE 301 – Développement d'un site e-commerce](https://github.com/Cafipoo/SAE301)
 Description : Dans ce projet, je devais avec mon binôme, redeisgner et développer un site de click & collect. J'ai donc analysé le site de Micromania et développé l'API et le Back Office de ce site.
 
 ## 🔊 En recherche de stage !
